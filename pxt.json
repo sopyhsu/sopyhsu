@@ -1,0 +1,21 @@
+{
+    "name": "小車",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "MaqueenPlus": "github:kodorobot/maqueenplus#0c5bd2393bbc22c915b2a42f3f817e1801cc3624"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
